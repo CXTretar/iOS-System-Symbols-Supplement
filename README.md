@@ -56,3 +56,22 @@
 | :-------------: | :--------------------: | :---------: |
 |  15.0 (19A346)  |      arm64 arm64e      |             |
 | 15.0.1 (19A348) |     arm64  arm64e      |             |
+
+## Arm Architecture List
+| armv7      | armv7s    | arm64                      | arm64e                     |
+| ---------- | --------- | -------------------------- | -------------------------- |
+| iPhone 3GS | iPhone 5  | iPhone 5S                  | iPhone XR                  |
+| iPhone 4   | iPhone 5C | iPhone 6                   | iPhone XS                  |
+| iPhone 4S  |           | iPhone 6s                  | iPhone XS Max              |
+|            |           | iPhone 6s Plus             | iPhone 11                  |
+|            |           | iPhone SE (1st generation) | iPhone 11 Pro              |
+|            |           | iPhone 7 Plus              | iPhone 11 Pro Max          |
+|            |           | iPhone 8                   | iPhone SE (2nd generation) |
+|            |           | iPhone 8 Plus              | iPhone 12 mini             |
+|            |           | iPhone X                   | iPhone 12                  |
+|            |           |                            | iPhone 12 Pro              |
+|            |           |                            | iPhone 12 Pro Max          |
+|            |           |                            | iPhone 13 mini             |
+|            |           |                            | iPhone 13                  |
+|            |           |                            | iPhone 13 Pro              |
+|            |           |                            | iPhone 13 Pro Max          |
