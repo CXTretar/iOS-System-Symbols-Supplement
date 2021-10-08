@@ -57,7 +57,7 @@
 |  15.0 (19A346)  |      arm64 arm64e      |             |
 | 15.0.1 (19A348) |     arm64  arm64e      |             |
 
-## Arm Architecture List
+## Device Architecture List
 | armv7      | armv7s    | arm64                      | arm64e                     |
 | ---------- | --------- | -------------------------- | -------------------------- |
 | iPhone 3GS | iPhone 5  | iPhone 5S                  | iPhone XR                  |
