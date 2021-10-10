@@ -8,6 +8,8 @@
 
 [iOS system symbol files(13.0.0-13.7.0)](https://drive.google.com/drive/folders/1X_q_JiaFGVaappi8gaexQDzJCH9SwdSw?usp=sharing)
 
+[iOS system symbol files(12.1.2-12.5.5)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
+
 ## Symbols List
 ### 12.x Symbols List
 |   OS Version    | Collected Architecture | Description |
