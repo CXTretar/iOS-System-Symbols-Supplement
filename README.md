@@ -2,7 +2,7 @@
 
 ## Download
 
-[iOS system symbol files(15.0.0-15.0.1)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
+[iOS system symbol files(15.0.0-15.0.2)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
 [iOS system symbol files(14.0.0-14.8.0)](https://drive.google.com/drive/folders/1EQPNNY9BPxuYmFdPovIx0eyIJcLodOtN?usp=sharing)
 
