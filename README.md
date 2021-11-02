@@ -9,7 +9,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(15.0.0-15.1)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
-[iOS system symbol files(14.0.0-14.8.0)](https://drive.google.com/drive/folders/1EQPNNY9BPxuYmFdPovIx0eyIJcLodOtN?usp=sharing)
+[iOS system symbol files(14.0.0-14.8.1)](https://drive.google.com/drive/folders/1EQPNNY9BPxuYmFdPovIx0eyIJcLodOtN?usp=sharing)
 
 [iOS system symbol files(13.0.0-13.7.0)](https://drive.google.com/drive/folders/1X_q_JiaFGVaappi8gaexQDzJCH9SwdSw?usp=sharing)
 
@@ -27,6 +27,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 14.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
+| 14.8.1 (18H107) |      arm64 arm64e      |                                       |
 |  14.8 (18H17)   |      arm64 arm64e      |                                       |
 | 14.7.1 (18G82)  |      arm64 arm64e      |                                       |
 |  14.7 (18G69)   |      arm64 arm64e      |                                       |
