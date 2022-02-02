@@ -7,7 +7,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Download
 
-[iOS system symbol files(15.0.0-15.2.1)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
+[iOS system symbol files(15.0.0-15.3)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
 [iOS system symbol files(14.0.0-14.8.1)](https://drive.google.com/drive/folders/1EQPNNY9BPxuYmFdPovIx0eyIJcLodOtN?usp=sharing)
 
@@ -19,6 +19,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
+|  15.3 (19D50)   |      arm64 arm64e      |                                               |
 | 15.2.1 (19C63)  |      arm64 arm64e      |                                               |
 |  15.2 (19C57)   |         arm64e         |     iPhone 13 / mini / Pro / Pro max only     |
 |  15.2 (19C56)   |      arm64 arm64e      |            iPhone 12 Series below             |
@@ -26,9 +27,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  15.1 (19B74)   |      arm64 arm64e      |                                               |
 | 15.0.2 (19A404) |      arm64 arm64e      |                                               |
 | 15.0.1 (19A348) |      arm64 arm64e      |                                               |
-|  15.0 (19A346)  |      arm64 arm64e      |                      
-|  15.0 (19A346)  |      arm64 arm64e      |                             
-
+|  15.0 (19A346)  |      arm64 arm64e      |                                               |
 ### 14.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
