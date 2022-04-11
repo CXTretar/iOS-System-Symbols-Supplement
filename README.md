@@ -129,3 +129,4 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 13                  |
 |            |           |                            | iPhone 13 Pro              |
 |            |           |                            | iPhone 13 Pro Max          |
+|            |           |                            | iPhone SE (3rd generation) |
