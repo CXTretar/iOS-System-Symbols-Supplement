@@ -20,9 +20,9 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Symbols List
 ### 16.x Symbols List
-|  OS Version   | Collected Architecture | Description |
-| :-----------: | :--------------------: | :---------: |
-| 16.0 (20A362) |      arm64 arm64e      |             |
+|   OS Version    | Collected Architecture |                  Description                  |
+| :-------------: | :--------------------: | :-------------------------------------------: |
+| 16.0 (20A362)   |      arm64 arm64e      |                                               |
 
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
