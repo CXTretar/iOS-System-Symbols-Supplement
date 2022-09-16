@@ -6,6 +6,8 @@ You can get versions prior to 12.0 here [Zuikyo/iOS-System-Symbols/collected-sym
 Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Download
+[iOS system symbol files(16.0)](https://drive.google.com/drive/folders/1gfBzXtTHBKPyd5T7nNTLgrRSnj4UVv7m?usp=sharing)
+
 [iOS system symbol files(15.6.1-15.7)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
 
 [iOS system symbol files(15.0.0-15.6)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
@@ -17,6 +19,11 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 [iOS system symbol files(12.0.0-12.5.5)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
+### 16.x Symbols List
+|  OS Version   | Collected Architecture | Description |
+| :-----------: | :--------------------: | :---------: |
+| 16.0 (20A362) |      arm64 arm64e      |             |
+
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
@@ -36,6 +43,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 15.0.2 (19A404) |      arm64 arm64e      |                                               |
 | 15.0.1 (19A348) |      arm64 arm64e      |                                               |
 |  15.0 (19A346)  |      arm64 arm64e      |                                               |
+
 ### 14.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
