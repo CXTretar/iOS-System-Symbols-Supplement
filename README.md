@@ -6,7 +6,7 @@ You can get versions prior to 12.0 here [Zuikyo/iOS-System-Symbols/collected-sym
 Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Download
-[iOS system symbol files(15.6.1)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
+[iOS system symbol files(15.6.1-15.7)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
 
 [iOS system symbol files(15.0.0-15.6)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
@@ -20,6 +20,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
+|  15.7 (19H12)   |         arm64e         |         arm64 will be collected later         |
 | 15.6.1 (19G82)  |      arm64 arm64e      |                                               |
 |  15.6 (19G71)   |      arm64 arm64e      |                                               |
 |  15.5 (19F77)   |      arm64 arm64e      |                                               |
@@ -134,3 +135,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 13 Pro              |
 |            |           |                            | iPhone 13 Pro Max          |
 |            |           |                            | iPhone SE (3rd generation) |
+|            |           |                            | iPhone 14                  |
+|            |           |                            | iPhone 14 Plus             |
+|            |           |                            | iPhone 14 Pro              |
+|            |           |                            | iPhone 14 Pro Max          |
