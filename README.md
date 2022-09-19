@@ -20,10 +20,10 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Symbols List
 ### 16.x Symbols List
-|   OS Version    | Collected Architecture |                  Description                  |
-| :-------------: | :--------------------: | :-------------------------------------------: |
-|  16.0 (20A362)  |      arm64 arm64e      |                                               |
-
+|  OS Version   | Collected Architecture |              Description              |
+| :-----------: | :--------------------: | :-----------------------------------: |
+| 16.0 (20A362) |      arm64 arm64e      |                                       |
+| 16.0 (20A357) |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
