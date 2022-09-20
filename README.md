@@ -16,7 +16,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(13.0.0-13.7.0)](https://drive.google.com/drive/folders/1X_q_JiaFGVaappi8gaexQDzJCH9SwdSw?usp=sharing)
 
-[iOS system symbol files(12.0.0-12.5.5)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
+[iOS system symbol files(12.0.0-12.5.6)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
 ### 16.x Symbols List
@@ -91,6 +91,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 12.x Symbols List
 |   OS Version    | Collected Architecture |                Description                |
 | :-------------: | :--------------------: | :---------------------------------------: |
+| 12.5.6 (16H71)  |         arm64          |                                           |
 | 12.5.5 (16H62)  |         arm64          |                                           |
 | 12.5.4 (16H50)  |         arm64          |                                           |
 | 12.5.3 (16H41)  |         arm64          |                                           |
