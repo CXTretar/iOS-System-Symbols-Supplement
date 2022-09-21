@@ -6,6 +6,8 @@ You can get versions prior to 12.0 here [Zuikyo/iOS-System-Symbols/collected-sym
 Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Download
+[百度网盘](https://pan.baidu.com/s/1JPl2skbmPPMQW0S0vpny8A?pwd=mijx) 提取码: mijx
+
 [iOS system symbol files(16.0)](https://drive.google.com/drive/folders/1gfBzXtTHBKPyd5T7nNTLgrRSnj4UVv7m?usp=sharing)
 
 [iOS system symbol files(15.6.1-15.7)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
