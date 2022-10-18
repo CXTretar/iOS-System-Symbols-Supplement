@@ -29,6 +29,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 16.0.1 (20A371) |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
 |  16.0 (20A362)  |      arm64 arm64e      |                                       |
 |  16.0 (20A357)  |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
+
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
