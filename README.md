@@ -10,7 +10,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(16.0-16.1)](https://drive.google.com/drive/folders/1gfBzXtTHBKPyd5T7nNTLgrRSnj4UVv7m?usp=sharing)
 
-[iOS system symbol files(15.6.1-15.7)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
+[iOS system symbol files(15.6.1-15.7.1)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
 
 [iOS system symbol files(15.0.0-15.6)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
@@ -34,6 +34,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
+| 15.7.1 (19H117) |      arm64 arm64e      |                                               |
 |  15.7 (19H12)   |      arm64 arm64e      |                                               |
 | 15.6.1 (19G82)  |      arm64 arm64e      |                                               |
 |  15.6 (19G71)   |      arm64 arm64e      |                                               |
@@ -49,7 +50,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  15.1 (19B74)   |      arm64 arm64e      |                                               |
 | 15.0.2 (19A404) |      arm64 arm64e      |                                               |
 | 15.0.1 (19A348) |      arm64 arm64e      |                                               |
-|  15.0 (19A346)  |      arm64 arm64e      |              
+|  15.0 (19A346)  |      arm64 arm64e      |                                               |
 
 ### 14.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
