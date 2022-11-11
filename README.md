@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1JPl2skbmPPMQW0S0vpny8A?pwd=mijx) 提取码: mijx
 
-[iOS system symbol files(16.0-16.1)](https://drive.google.com/drive/folders/1gfBzXtTHBKPyd5T7nNTLgrRSnj4UVv7m?usp=sharing)
+[iOS system symbol files(16.0-16.1.1)](https://drive.google.com/drive/folders/1gfBzXtTHBKPyd5T7nNTLgrRSnj4UVv7m?usp=sharing)
 
 [iOS system symbol files(15.6.1-15.7.1)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
 
@@ -24,7 +24,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 16.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
-|   16.1(20B82)   |      arm64 arm64e      |                                       |
+| 16.1.1 (20B101) |      arm64 arm64e      |                                       |
+|  16.1 (20B82)   |      arm64 arm64e      |                                       |
 | 16.0.3 (20A392) |      arm64 arm64e      |                                       |
 | 16.0.2 (20A380) |      arm64 arm64e      |                                       |
 | 16.0.1 (20A371) |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
