@@ -39,6 +39,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
+| 15.7.3 (19H307) |      arm64 arm64e      |                                               |
+| 15.7.2 (19H218) |      arm64 arm64e      |                                               |
 | 15.7.1 (19H117) |      arm64 arm64e      |                                               |
 |  15.7 (19H12)   |      arm64 arm64e      |                                               |
 | 15.6.1 (19G82)  |      arm64 arm64e      |                                               |
