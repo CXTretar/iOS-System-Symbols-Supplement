@@ -8,6 +8,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1JPl2skbmPPMQW0S0vpny8A?pwd=mijx) 提取码: mijx
 
+[iOS system symbol files(17.0)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
+
 [iOS system symbol files(16.5-16.6.1)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
 
 [iOS system symbol files(16.0-16.4.1)](https://drive.google.com/drive/folders/13BvwiFUCeBK5IwjQOEhrdSYX_e3LnA5M?usp=sharing)
@@ -23,6 +25,10 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 [iOS system symbol files(12.0.0-12.5.7)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
+### 17.x Symbols List
+|  OS Version   | Collected Architecture | Description |
+| :-----------: | :--------------------: | :---------: |
+| 17.0 (21A329) |         arm64e         |             |
 ### 16.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
@@ -177,3 +183,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 14 Plus             |
 |            |           |                            | iPhone 14 Pro              |
 |            |           |                            | iPhone 14 Pro Max          |
+|            |           |                            | iPhone 15                  |
+|            |           |                            | iPhone 15 Plus             |
+|            |           |                            | iPhone 15 Pro              |
+|            |           |                            | iPhone 15 Pro Max          |
