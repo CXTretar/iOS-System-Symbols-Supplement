@@ -146,7 +146,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 12.3.2 (16F250) |         arm64          |            iPhone 8 Plus only             |
 | 12.3.1 (16F203) |      arm64 arm64e      |                                           |
 |  12.3 (16F156)  |      arm64 arm64e      |                                           |
-|  12.2 (16E227)  |      arm64 arm64e      |                    111                    |
+|  12.2 (16E227)  |      arm64 arm64e      |                                           |
 | 12.1.4 (16D57)  |      arm64 arm64e      |                                           |
 | 12.1.3 (16D40)  |         arm64e         | iPhone XR / XS / XS Max / iPad Pro 3 only |
 | 12.1.3 (16D39)  |         arm64          |                                           |
