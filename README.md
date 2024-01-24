@@ -8,13 +8,13 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1JPl2skbmPPMQW0S0vpny8A?pwd=mijx) 提取码: mijx
 
-[iOS system symbol files(17.0-17.2.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
+[iOS system symbol files(17.0-17.3)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
-[iOS system symbol files(16.5-16.7.4)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
+[iOS system symbol files(16.5-16.7.5)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
 
 [iOS system symbol files(16.0-16.4.1)](https://drive.google.com/drive/folders/13BvwiFUCeBK5IwjQOEhrdSYX_e3LnA5M?usp=sharing)
 
-[iOS system symbol files(15.6.1-15.8)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
+[iOS system symbol files(15.6.1-15.8.1)](https://drive.google.com/drive/folders/1kH9Sj8k_HDnetRnCORKmjHQanYTosFep?usp=sharing)
 
 [iOS system symbol files(15.0.0-15.6)](https://drive.google.com/drive/folders/16w8gEDuwF3I4KYxadLAQQebSg5ZYEayC?usp=sharing)
 
@@ -28,6 +28,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 17.x Symbols List
 |   OS Version    | Collected Architecture | Description |
 | :-------------: | :--------------------: | :---------: |
+|  17.3 (21D50)   |         arm64e         |             |
 | 17.2.1 (21C66)  |         arm64e         |             |
 |  17.2 (21C62)   |         arm64e         |             |
 | 17.1.2 (21B101) |         arm64e         |             |
@@ -42,6 +43,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 16.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
 | :-------------: | :--------------------: | :-----------------------------------: |
+| 16.7.5 (20H307) |         arm64          |                                       |
 | 16.7.4 (20H240) |         arm64          |                                       |
 | 16.7.3 (20H232) |         arm64          |                                       |
 | 16.7.2 (20H115) |         arm64          |                                       |
@@ -68,6 +70,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
+| 15.8.1 (19H380) |         arm64          |                                               |
 |  15.8 (19H370)  |         arm64          |                                               |
 | 15.7.9 (19H365) |         arm64          |                                               |
 | 15.7.8 (19H364) |         arm64          |                                               |
