@@ -28,7 +28,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 17.x Symbols List
 |   OS Version    | Collected Architecture | Description |
 | :-------------: | :--------------------: | :---------: |
-| 17.3.1 (21D50)  |         arm64e         |             |
+| 17.3.1 (21D61)  |         arm64e         |             |
 |  17.3 (21D50)   |         arm64e         |             |
 | 17.2.1 (21C66)  |         arm64e         |             |
 |  17.2 (21C62)   |         arm64e         |             |
