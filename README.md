@@ -6,7 +6,9 @@ You can get versions prior to 12.0 here [Zuikyo/iOS-System-Symbols/collected-sym
 Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Download
-[百度网盘](https://pan.baidu.com/s/1JPl2skbmPPMQW0S0vpny8A?pwd=mijx) 提取码: mijx
+[百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
+
+[iOS system symbol files(18.0)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
 
 [iOS system symbol files(17.0-17.5.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
@@ -25,6 +27,12 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 [iOS system symbol files(12.0.0-12.5.7)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
+### 18.x Symbols List
+|   OS Version    | Collected Architecture | Description |
+| :-------------: | :--------------------: | :---------: |
+| 18.0 (22A5297f) |         arm64e         | 18.0 Beta2  |
+| 18.0 (22A5282m) |         arm64e         | 18.0 Beta1  |
+
 ### 17.x Symbols List
 |   OS Version    | Collected Architecture | Description |
 | :-------------: | :--------------------: | :---------: |
