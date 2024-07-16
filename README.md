@@ -28,11 +28,12 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Symbols List
 ### 18.x Symbols List
-|   OS Version    | Collected Architecture | Description |
-| :-------------: | :--------------------: | :---------: |
-| 18.0 (22A5307f) |         arm64e         | 18.0 Beta3  |
-| 18.0 (22A5297f) |         arm64e         | 18.0 Beta2  |
-| 18.0 (22A5282m) |         arm64e         | 18.0 Beta1  |
+|   OS Version    | Collected Architecture |    Description    |
+| :-------------: | :--------------------: | :---------------: |
+| 18.0 (22A5307i) |         arm64e         | 18.0 Beta3 Update |
+| 18.0 (22A5307f) |         arm64e         |    18.0 Beta3     |
+| 18.0 (22A5297f) |         arm64e         |    18.0 Beta2     |
+| 18.0 (22A5282m) |         arm64e         |    18.0 Beta1     |
 
 ### 17.x Symbols List
 |   OS Version    | Collected Architecture | Description |
