@@ -31,6 +31,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |   OS Version    | Collected Architecture |    Description    |
 | :-------------: | :--------------------: | :---------------: |
 | 18.1 (22B5007p) |         arm64e         |    18.1 Beta1     |
+| 18.0 (22A5326f) |         arm64e         |    18.0 Beta5     |
+| 18.0 (22A5316k) |         arm64e         | 18.0 Beta4 Update |
 | 18.0 (22A5316j) |         arm64e         |    18.0 Beta4     |
 | 18.0 (22A5307i) |         arm64e         | 18.0 Beta3 Update |
 | 18.0 (22A5307f) |         arm64e         |    18.0 Beta3     |
