@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
-[iOS system symbol files(18.0-18.1)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
+[iOS system symbol files(18.0 beta1-18.1 beta2)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
 
 [iOS system symbol files(17.0-17.6.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
@@ -30,7 +30,9 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 18.x Symbols List
 |   OS Version    | Collected Architecture |    Description    |
 | :-------------: | :--------------------: | :---------------: |
+| 18.1 (22B5023e) |         arm64e         |    18.1 Beta2     |
 | 18.1 (22B5007p) |         arm64e         |    18.1 Beta1     |
+| 18.0 (22A5338b) |         arm64e         |    18.0 Beta6     |
 | 18.0 (22A5326f) |         arm64e         |    18.0 Beta5     |
 | 18.0 (22A5316k) |         arm64e         | 18.0 Beta4 Update |
 | 18.0 (22A5316j) |         arm64e         |    18.0 Beta4     |
