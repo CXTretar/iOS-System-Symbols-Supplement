@@ -10,6 +10,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(18.0 beta1-18.1 beta3)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
 
+[iOS system symbol files(17.6.1)](https://drive.google.com/drive/folders/1XX_oL9AJ-GgiCgacz61_4ntnHJmGcnMP?usp=drive_link)
+
 [iOS system symbol files(17.0-17.6.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
 [iOS system symbol files(16.5-16.7.10)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
@@ -47,6 +49,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 17.x Symbols List
 |   OS Version    | Collected Architecture | Description |
 | :-------------: | :--------------------: | :---------: |
+| 17.6.1 (21G101) |         arm64e         |             |
 | 17.6.1 (21G93)  |         arm64e         |             |
 |  17.6 (21G80)   |         arm64e         |             |
 | 17.5.1 (21F90)  |         arm64e         |             |
