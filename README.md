@@ -35,6 +35,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 18.1 (22B5034e) |         arm64e         |    18.1 Beta3     |
 | 18.1 (22B5023e) |         arm64e         |    18.1 Beta2     |
 | 18.1 (22B5007p) |         arm64e         |    18.1 Beta1     |
+| 18.0 (22A3354)  |         arm64e         |      18.0 RC      |
 | 18.0 (22A5350a) |         arm64e         |    18.0 beta8     |
 | 18.0 (22A5346a) |         arm64e         |    18.0 beta7     |
 | 18.0 (22A5338b) |         arm64e         |    18.0 Beta6     |
