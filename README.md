@@ -35,6 +35,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |   OS Version   | Collected Architecture | Description |
 | :------------: | :--------------------: | :---------: |
 | 18.0 (22A3354) |         arm64e         |             |
+| 18.0 (22A3351) |         arm64e         |             |
 
 ### 18.x Beta Symbols List
 |   OS Version    | Collected Architecture |    Description    |
