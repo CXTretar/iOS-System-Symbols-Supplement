@@ -255,3 +255,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 15 Plus             |
 |            |           |                            | iPhone 15 Pro              |
 |            |           |                            | iPhone 15 Pro Max          |
+|            |           |                            | iPhone 16                  |
+|            |           |                            | iPhone 16 Plus             |
+|            |           |                            | iPhone 16 Pro              |
+|            |           |                            | iPhone 16 Pro Max          |
