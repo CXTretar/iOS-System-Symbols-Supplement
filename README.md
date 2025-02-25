@@ -32,17 +32,19 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Symbols List
 ### 18.x Symbols List
-|    OS Version    | Collected Architecture | Description |
-| :--------------: | :--------------------: | :---------: |
-|  18.3.1 (22D72)  |         arm64e         |             |
-|   18.3 (22D63)   |         arm64e         |             |
-| 18.2.1 (22C161)  |         arm64e         |             |
-|  18.2 (22C152)   |         arm64e         |             |
-|  18.1.1 (22B91)  |         arm64e         |             |
-|   18.1 (22B83)   |         arm64e         |             |
-| 18.0.1 (22A3370) |         arm64e         |             |
-|  18.0 (22A3354)  |         arm64e         |             |
-|  18.0 (22A3351)  |         arm64e         |             |
+|    OS Version    | Collected Architecture |   Description   |
+| :--------------: | :--------------------: | :-------------: |
+| 18.3.1 (22D8075) |         arm64e         | iPhone 16e only |
+|  18.3.1 (22D72)  |         arm64e         |                 |
+|   18.3 (22D63)   |         arm64e         |                 |
+| 18.2.1 (22C161)  |         arm64e         |                 |
+|  18.2 (22C152)   |         arm64e         |                 |
+|  18.1.1 (22B91)  |         arm64e         |                 |
+|   18.1 (22B83)   |         arm64e         |                 |
+| 18.0.1 (22A3370) |         arm64e         |                 |
+|  18.0 (22A3354)  |         arm64e         |                 |
+|  18.0 (22A3351)  |         arm64e         |                 |
+
 
 ### 18.x Beta Symbols List
 |   OS Version    | Collected Architecture |    Description    |
@@ -265,3 +267,4 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 16 Plus             |
 |            |           |                            | iPhone 16 Pro              |
 |            |           |                            | iPhone 16 Pro Max          |
+|            |           |                            | iPhone 16e                 |
