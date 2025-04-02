@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
-[iOS system symbol files(18.0-18.3.2)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
+[iOS system symbol files(18.0-18.4)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
 
 [iOS system symbol files(18.0 beta1-18.1 beta3)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
 
@@ -16,7 +16,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(17.0-17.6.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
-[iOS system symbol files(16.5-16.7.10)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
+[iOS system symbol files(16.5-16.7.11)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
 
 [iOS system symbol files(16.0-16.4.1)](https://drive.google.com/drive/folders/13BvwiFUCeBK5IwjQOEhrdSYX_e3LnA5M?usp=sharing)
 
@@ -34,6 +34,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 18.x Symbols List
 |    OS Version    | Collected Architecture |   Description   |
 | :--------------: | :--------------------: | :-------------: |
+|  18.4 (22E240)   |         arm64e         |                 |
 |  18.3.2 (22D82)  |         arm64e         |                 |
 | 18.3.2 (22D8082) |         arm64e         | iPhone 16e only |
 | 18.3.1 (22D8075) |         arm64e         | iPhone 16e only |
@@ -46,7 +47,6 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 18.0.1 (22A3370) |         arm64e         |                 |
 |  18.0 (22A3354)  |         arm64e         |                 |
 |  18.0 (22A3351)  |         arm64e         |                 |
-
 
 ### 18.x Beta Symbols List
 |   OS Version    | Collected Architecture |    Description    |
@@ -94,6 +94,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 16.x Symbols List
 |    OS Version    | Collected Architecture |              Description              |
 | :--------------: | :--------------------: | :-----------------------------------: |
+| 16.7.11 (20H360) |         arm64          |                                       |
 | 16.7.10 (20H350) |         arm64          |                                       |
 | 16.7.9 (20H348)  |         arm64          |                                       |
 | 16.7.8 (20H343)  |         arm64          |                                       |
