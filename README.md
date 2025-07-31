@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
-[iOS system symbol files(18.0-18.5)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
+[iOS system symbol files(18.0-18.6)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
 
 [iOS system symbol files(18.0 beta1-18.1 beta3)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
 
@@ -32,23 +32,24 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 ## Symbols List
 ### 18.x Symbols List
-|    OS Version    | Collected Architecture |   Description   |
-| :--------------: | :--------------------: | :-------------: |
-|   18.5 (22F76)   |         arm64e         |                 |
-| 18.4.1 (22E252)  |         arm64e         |                 |
-|  18.4 (22E240)   |         arm64e         |                 |
-|  18.3.2 (22D82)  |         arm64e         |                 |
-| 18.3.2 (22D8082) |         arm64e         | iPhone 16e only |
-| 18.3.1 (22D8075) |         arm64e         | iPhone 16e only |
-|  18.3.1 (22D72)  |         arm64e         |                 |
-|   18.3 (22D63)   |         arm64e         |                 |
-| 18.2.1 (22C161)  |         arm64e         |                 |
-|  18.2 (22C152)   |         arm64e         |                 |
-|  18.1.1 (22B91)  |         arm64e         |                 |
-|   18.1 (22B83)   |         arm64e         |                 |
-| 18.0.1 (22A3370) |         arm64e         |                 |
-|  18.0 (22A3354)  |         arm64e         |                 |
-|  18.0 (22A3351)  |         arm64e         |                 |
+| OS Version       | Collected Architecture | Description     |
+|:----------------:|:----------------------:|:---------------:|
+| 18.6 (22G86)     | arm64e                 |                 |
+| 18.5 (22F76)     | arm64e                 |                 |
+| 18.4.1 (22E252)  | arm64e                 |                 |
+| 18.4 (22E240)    | arm64e                 |                 |
+| 18.3.2 (22D82)   | arm64e                 |                 |
+| 18.3.2 (22D8082) | arm64e                 | iPhone 16e only |
+| 18.3.1 (22D8075) | arm64e                 | iPhone 16e only |
+| 18.3.1 (22D72)   | arm64e                 |                 |
+| 18.3 (22D63)     | arm64e                 |                 |
+| 18.2.1 (22C161)  | arm64e                 |                 |
+| 18.2 (22C152)    | arm64e                 |                 |
+| 18.1.1 (22B91)   | arm64e                 |                 |
+| 18.1 (22B83)     | arm64e                 |                 |
+| 18.0.1 (22A3370) | arm64e                 |                 |
+| 18.0 (22A3354)   | arm64e                 |                 |
+| 18.0 (22A3351)   | arm64e                 |                 |
 
 ### 18.x Beta Symbols List
 |   OS Version    | Collected Architecture |    Description    |
