@@ -20,7 +20,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(17.0-17.6.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
-[iOS system symbol files(16.5-16.7.11)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
+[iOS system symbol files(16.5-16.7.12)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
 
 [iOS system symbol files(16.0-16.4.1)](https://drive.google.com/drive/folders/13BvwiFUCeBK5IwjQOEhrdSYX_e3LnA5M?usp=sharing)
 
@@ -108,37 +108,38 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  17.0 (21A329)  |         arm64e         |             |
 
 ### 16.x Symbols List
-|    OS Version    | Collected Architecture |              Description              |
-| :--------------: | :--------------------: | :-----------------------------------: |
-| 16.7.11 (20H360) |         arm64          |                                       |
-| 16.7.10 (20H350) |         arm64          |                                       |
-| 16.7.9 (20H348)  |         arm64          |                                       |
-| 16.7.8 (20H343)  |         arm64          |                                       |
-| 16.7.7 (20H330)  |         arm64          |                                       |
-| 16.7.6 (20H320)  |         arm64          |                                       |
-| 16.7.5 (20H307)  |         arm64          |                                       |
-| 16.7.4 (20H240)  |         arm64          |                                       |
-| 16.7.3 (20H232)  |         arm64          |                                       |
-| 16.7.2 (20H115)  |         arm64          |                                       |
-|  16.7.1 (20H30)  |         arm64          |                                       |
-|   16.7 (20H19)   |         arm64          |                                       |
-|  16.6.1 (20G81)  |      arm64 arm64e      |                                       |
-|   16.6 (20G75)   |      arm64 arm64e      |                                       |
-|  16.5.1 (20F75)  |      arm64 arm64e      |                                       |
-|   16.5 (20F66)   |      arm64 arm64e      |                                       |
-| 16.4.1 (20E252)  |      arm64 arm64e      |                                       |
-|  16.4 (20E247)   |      arm64 arm64e      |                                       |
-|  16.3.1 (20D67)  |      arm64 arm64e      |                                       |
-|   16.3 (20D47)   |      arm64 arm64e      |                                       |
-|   16.2 (20C65)   |      arm64 arm64e      |                                       |
-| 16.1.2 (20B110)  |      arm64 arm64e      |                                       |
-| 16.1.1 (20B101)  |      arm64 arm64e      |                                       |
-|   16.1 (20B82)   |      arm64 arm64e      |                                       |
-| 16.0.3 (20A392)  |      arm64 arm64e      |                                       |
-| 16.0.2 (20A380)  |      arm64 arm64e      |                                       |
-| 16.0.1 (20A371)  |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
-|  16.0 (20A362)   |      arm64 arm64e      |                                       |
-|  16.0 (20A357)   |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
+| OS Version       | Collected Architecture | Description                           |
+|:----------------:|:----------------------:|:-------------------------------------:|
+| 16.7.12 (20H364) | arm64                  |                                       |
+| 16.7.11 (20H360) | arm64                  |                                       |
+| 16.7.10 (20H350) | arm64                  |                                       |
+| 16.7.9 (20H348)  | arm64                  |                                       |
+| 16.7.8 (20H343)  | arm64                  |                                       |
+| 16.7.7 (20H330)  | arm64                  |                                       |
+| 16.7.6 (20H320)  | arm64                  |                                       |
+| 16.7.5 (20H307)  | arm64                  |                                       |
+| 16.7.4 (20H240)  | arm64                  |                                       |
+| 16.7.3 (20H232)  | arm64                  |                                       |
+| 16.7.2 (20H115)  | arm64                  |                                       |
+| 16.7.1 (20H30)   | arm64                  |                                       |
+| 16.7 (20H19)     | arm64                  |                                       |
+| 16.6.1 (20G81)   | arm64 arm64e           |                                       |
+| 16.6 (20G75)     | arm64 arm64e           |                                       |
+| 16.5.1 (20F75)   | arm64 arm64e           |                                       |
+| 16.5 (20F66)     | arm64 arm64e           |                                       |
+| 16.4.1 (20E252)  | arm64 arm64e           |                                       |
+| 16.4 (20E247)    | arm64 arm64e           |                                       |
+| 16.3.1 (20D67)   | arm64 arm64e           |                                       |
+| 16.3 (20D47)     | arm64 arm64e           |                                       |
+| 16.2 (20C65)     | arm64 arm64e           |                                       |
+| 16.1.2 (20B110)  | arm64 arm64e           |                                       |
+| 16.1.1 (20B101)  | arm64 arm64e           |                                       |
+| 16.1 (20B82)     | arm64 arm64e           |                                       |
+| 16.0.3 (20A392)  | arm64 arm64e           |                                       |
+| 16.0.2 (20A380)  | arm64 arm64e           |                                       |
+| 16.0.1 (20A371)  | arm64e                 | iPhone 14 / Plus / Pro / Pro max only |
+| 16.0 (20A362)    | arm64 arm64e           |                                       |
+| 16.0 (20A357)    | arm64e                 | iPhone 14 / Plus / Pro / Pro max only |
 
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
