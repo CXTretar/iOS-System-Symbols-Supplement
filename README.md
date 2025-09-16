@@ -8,6 +8,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
+[iOS system symbol files(26.0)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
+
 [iOS system symbol files(18.6.1-18.6.2)](https://drive.google.com/drive/folders/1ALZAe7NDlviRg75GI48M0OPF8YPQWPm1?usp=sharing) 
 
 [iOS system symbol files(18.0-18.6)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
