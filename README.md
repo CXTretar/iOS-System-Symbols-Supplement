@@ -259,6 +259,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  12.0 (16A366)  |      arm64 arm64e      |                                           |
 
 ## Device Architecture List
+​
 | armv7      | armv7s    | arm64                      | arm64e                     |
 | ---------- | --------- | -------------------------- | -------------------------- |
 | iPhone 3GS | iPhone 5  | iPhone 5S                  | iPhone XR                  |
@@ -290,3 +291,8 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 16 Pro              |
 |            |           |                            | iPhone 16 Pro Max          |
 |            |           |                            | iPhone 16e                 |
+|            |           |                            | iPhone 17 Pro              |
+|            |           |                            | iPhone 17 Pro Max          |
+|            |           |                            | iPhone 17                  |
+|            |           |                            | iPhone Air                 |
+​
