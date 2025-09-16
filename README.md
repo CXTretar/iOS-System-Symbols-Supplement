@@ -35,6 +35,11 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 [iOS system symbol files(12.0.0-12.5.7)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
+### 26.x Symbols List
+| OS Version    | Collected Architecture | Description |
+|:-------------:|:----------------------:|:-----------:|
+| 26.0 (23A341) | arm64e                 |             |
+
 ### 18.x Symbols List
 | OS Version       | Collected Architecture | Description     |
 |:----------------:|:----------------------:|:---------------:|
