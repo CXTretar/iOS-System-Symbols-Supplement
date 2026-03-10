@@ -10,7 +10,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(26.0-26.3.1)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
 
-[iOS system symbol files(18.6.1-18.7.1)](https://drive.google.com/drive/folders/1ALZAe7NDlviRg75GI48M0OPF8YPQWPm1?usp=sharing) 
+[iOS system symbol files(18.6.1-18.7.6)](https://drive.google.com/drive/folders/1y5rE-KPuP-5uM11FgD_gh4GJ6T8UpDTM?usp=sharing) 
 
 [iOS system symbol files(18.0-18.6)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
 
@@ -73,22 +73,33 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 
 ### 18.x Beta Symbols List
-|   OS Version    | Collected Architecture |    Description    |
-| :-------------: | :--------------------: | :---------------: |
-| 18.1 (22B5034e) |         arm64e         |    18.1 Beta3     |
-| 18.1 (22B5023e) |         arm64e         |    18.1 Beta2     |
-| 18.1 (22B5007p) |         arm64e         |    18.1 Beta1     |
-| 18.0 (22A3354)  |         arm64e         |      18.0 RC      |
-| 18.0 (22A5350a) |         arm64e         |    18.0 beta8     |
-| 18.0 (22A5346a) |         arm64e         |    18.0 beta7     |
-| 18.0 (22A5338b) |         arm64e         |    18.0 Beta6     |
-| 18.0 (22A5326f) |         arm64e         |    18.0 Beta5     |
-| 18.0 (22A5316k) |         arm64e         | 18.0 Beta4 Update |
-| 18.0 (22A5316j) |         arm64e         |    18.0 Beta4     |
-| 18.0 (22A5307i) |         arm64e         | 18.0 Beta3 Update |
-| 18.0 (22A5307f) |         arm64e         |    18.0 Beta3     |
-| 18.0 (22A5297f) |         arm64e         |    18.0 Beta2     |
-| 18.0 (22A5282m) |         arm64e         |    18.0 Beta1     |
+|    OS Version    | Collected Architecture |   Description   |
+| :--------------: | :--------------------: | :-------------: |
+| 18.7.6 (22H320)  |         arm64e         |                 |
+| 18.7.5 (22H311)  |         arm64e         |                 |
+| 18.7.4 (22H218)  |         arm64e         |                 |
+| 18.7.3 (22H217)  |         arm64e         |                 |
+| 18.7.2 (22H124)  |         arm64e         |                 |
+|  18.7.1 (22H31)  |         arm64e         |                 |
+|   18.7 (22H20)   |         arm64e         |                 |
+| 18.6.2 (22G100)  |         arm64e         |                 |
+|  18.6.1 (22G90)  |         arm64e         |                 |
+|   18.6 (22G86)   |         arm64e         |                 |
+|   18.5 (22F76)   |         arm64e         |                 |
+| 18.4.1 (22E252)  |         arm64e         |                 |
+|  18.4 (22E240)   |         arm64e         |                 |
+|  18.3.2 (22D82)  |         arm64e         |                 |
+| 18.3.2 (22D8082) |         arm64e         | iPhone 16e only |
+| 18.3.1 (22D8075) |         arm64e         | iPhone 16e only |
+|  18.3.1 (22D72)  |         arm64e         |                 |
+|   18.3 (22D63)   |         arm64e         |                 |
+| 18.2.1 (22C161)  |         arm64e         |                 |
+|  18.2 (22C152)   |         arm64e         |                 |
+|  18.1.1 (22B91)  |         arm64e         |                 |
+|   18.1 (22B83)   |         arm64e         |                 |
+| 18.0.1 (22A3370) |         arm64e         |                 |
+|  18.0 (22A3354)  |         arm64e         |                 |
+|  18.0 (22A3351)  |         arm64e         |                 |
 
 ### 17.x Symbols List
 |   OS Version    | Collected Architecture | Description |
@@ -266,8 +277,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 12.0.1 (16A404) |         arm64          |                                           |
 |  12.0 (16A366)  |      arm64 arm64e      |                                           |
 
-## Device Architecture List
-​
+## Device Architecture List​
 | armv7      | armv7s    | arm64                      | arm64e                     |
 | ---------- | --------- | -------------------------- | -------------------------- |
 | iPhone 3GS | iPhone 5  | iPhone 5S                  | iPhone XR                  |
@@ -303,4 +313,5 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 17 Pro Max          |
 |            |           |                            | iPhone 17                  |
 |            |           |                            | iPhone Air                 |
+|            |           |                            | iPhone 17e                 |
 ​
