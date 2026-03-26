@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
-[iOS system symbol files(26.0-26.3.1)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
+[iOS system symbol files(26.0-26.4)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
 
 [iOS system symbol files(18.6.1-18.7.6)](https://drive.google.com/drive/folders/1y5rE-KPuP-5uM11FgD_gh4GJ6T8UpDTM?usp=sharing) 
 
@@ -40,6 +40,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 26.x Symbols List
 |    OS Version    | Collected Architecture | Description |
 | :--------------: | :--------------------: | :---------: |
+|  26.4 (23E246)   |         arm64e         |             |
 | 26.3.1 (23D8133) |         arm64e         |             |
 |  26.3 (23D127)   |         arm64e         |             |
 |  26.2.1 (23C71)  |         arm64e         |             |
