@@ -8,19 +8,23 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
+[iOS system symbol files(26.6-26.6.1)](https://drive.google.com/drive/folders/13zQwjRGlVc_2O08XFNyzSB9a66hN3c1x?usp=sharing)
+
 [iOS system symbol files(26.0-26.5.2)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
 
-[iOS system symbol files(18.6.1-18.7.6)](https://drive.google.com/drive/folders/1y5rE-KPuP-5uM11FgD_gh4GJ6T8UpDTM?usp=sharing) 
+[iOS system symbol files(18.7.10)](https://drive.google.com/drive/folders/1GSpzUQVaRjFmVOELmnJ_LbXT4rEyiyKc?usp=sharing)
+
+[iOS system symbol files(18.6.1-18.7.9)](https://drive.google.com/drive/folders/1y5rE-KPuP-5uM11FgD_gh4GJ6T8UpDTM?usp=sharing) 
 
 [iOS system symbol files(18.0-18.6)](https://drive.google.com/drive/folders/1jWUAHcpU9OjdA1aCSSis9qOGd4kjyAf7?usp=sharing) 
 
 [iOS system symbol files(18.0 beta1-18.1 beta3)](https://drive.google.com/drive/folders/1YwKHYA_-KOOYXsz2L2nq8WnPuyvxqLid?usp=drive_link)
 
-[iOS system symbol files(17.6.1)](https://drive.google.com/drive/folders/1XX_oL9AJ-GgiCgacz61_4ntnHJmGcnMP?usp=drive_link)
+[iOS system symbol files(17.6.1-17.7)](https://drive.google.com/drive/folders/1XX_oL9AJ-GgiCgacz61_4ntnHJmGcnMP?usp=drive_link)
 
 [iOS system symbol files(17.0-17.6.1)](https://drive.google.com/drive/folders/1wKCTyvhA5B39aJFxT8u92qpOaMA5-f19?usp=drive_link)
 
-[iOS system symbol files(16.7.15)](https://drive.google.com/drive/folders/1mLhwu8InGg7C0NsR8p8oLnFdEovMuiQv?usp=sharing)
+[iOS system symbol files(16.7.15-16.7.16)](https://drive.google.com/drive/folders/1mLhwu8InGg7C0NsR8p8oLnFdEovMuiQv?usp=sharing)
 
 [iOS system symbol files(16.5-16.7.14)](https://drive.google.com/drive/folders/1Z2Qrhs114rNcO8MArrNY0-U4vqVv1Gjc?usp=share_link)
 
@@ -32,15 +36,18 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(14.0.0-14.8.1)](https://drive.google.com/drive/folders/1EQPNNY9BPxuYmFdPovIx0eyIJcLodOtN?usp=sharing)
 
-[iOS system symbol files(13.0.0-13.7.0)](https://drive.google.com/drive/folders/1X_q_JiaFGVaappi8gaexQDzJCH9SwdSw?usp=sharing)
+[iOS system symbol files(13.0.0-13.7)](https://drive.google.com/drive/folders/1X_q_JiaFGVaappi8gaexQDzJCH9SwdSw?usp=sharing)
 
-[iOS system symbol files(12.0.0-12.5.7)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
+[iOS system symbol files(12.0.0-12.5.8)](https://drive.google.com/drive/folders/1oEpBXrpSN4DeijlzNmlI_yly27b-OLb2?usp=sharing)
 
 ## Symbols List
 ### 26.x Symbols List
 | OS Version       | Collected Architecture | Description |
 |:----------------:|:----------------------:|:-----------:|
+| 26.6.1 (23G83)   | arm64e                 |             |
+| 26.6 (23G71)     | arm64e                 |             |
 | 26.5.2 (23F84)   | arm64e                 |             |
+| 26.0 (23A345)    | arm64e                 |             |
 | 26.5.1 (23F81)   | arm64e                 |             |
 | 26.5 (23F77)     | arm64e                 |             |
 | 26.4.2 (23E261)  | arm64e                 |             |
@@ -56,33 +63,48 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 
 ### 18.x Symbols List
-| OS Version       | Collected Architecture | Description     |
-|:----------------:|:----------------------:|:---------------:|
-| 18.7.1 (22H31)   | arm64e                 |                 |
-| 18.7 (22H20)     | arm64e                 |                 |
-| 18.6.2 (22G100)  | arm64e                 |                 |
-| 18.6.1 (22G90)   | arm64e                 |                 |
-| 18.6 (22G86)     | arm64e                 |                 |
-| 18.5 (22F76)     | arm64e                 |                 |
-| 18.4.1 (22E252)  | arm64e                 |                 |
-| 18.4 (22E240)    | arm64e                 |                 |
-| 18.3.2 (22D82)   | arm64e                 |                 |
-| 18.3.2 (22D8082) | arm64e                 | iPhone 16e only |
-| 18.3.1 (22D8075) | arm64e                 | iPhone 16e only |
-| 18.3.1 (22D72)   | arm64e                 |                 |
-| 18.3 (22D63)     | arm64e                 |                 |
-| 18.2.1 (22C161)  | arm64e                 |                 |
-| 18.2 (22C152)    | arm64e                 |                 |
-| 18.1.1 (22B91)   | arm64e                 |                 |
-| 18.1 (22B83)     | arm64e                 |                 |
-| 18.0.1 (22A3370) | arm64e                 |                 |
-| 18.0 (22A3354)   | arm64e                 |                 |
-| 18.0 (22A3351)   | arm64e                 |                 |
+|    OS Version    | Collected Architecture |   Description   |
+| :--------------: | :--------------------: | :-------------: |
+| 18.7.10 (22H374) |         arm64e         |                 |
+| 18.7.9 (22H355)  |         arm64e         |                 |
+| 18.7.8 (22H352)  |         arm64e         |                 |
+| 18.7.7 (22H333)  |         arm64e         |                 |
+| 18.7.7 (22H340)  |         arm64e         |                 |
+| 18.7.6 (22H320)  |         arm64e         |                 |
+| 18.7.5 (22H311)  |         arm64e         |                 |
+| 18.7.4 (22H218)  |         arm64e         |                 |
+| 18.7.3 (22H217)  |         arm64e         |                 |
+| 18.7.2 (22H124)  |         arm64e         |                 |
+|  18.7.1 (22H31)  |         arm64e         |                 |
+|   18.7 (22H20)   |         arm64e         |                 |
+| 18.6.2 (22G100)  |         arm64e         |                 |
+|  18.6.1 (22G90)  |         arm64e         |                 |
+|   18.6 (22G86)   |         arm64e         |                 |
+|   18.5 (22F76)   |         arm64e         |                 |
+| 18.4.1 (22E252)  |         arm64e         |                 |
+|  18.4 (22E240)   |         arm64e         |                 |
+|  18.3.2 (22D82)  |         arm64e         |                 |
+| 18.3.2 (22D8082) |         arm64e         | iPhone 16e only |
+| 18.3.1 (22D8075) |         arm64e         | iPhone 16e only |
+|  18.3.1 (22D72)  |         arm64e         |                 |
+|   18.3 (22D63)   |         arm64e         |                 |
+| 18.2.1 (22C161)  |         arm64e         |                 |
+|  18.2 (22C152)   |         arm64e         |                 |
+|  18.1.1 (22B91)  |         arm64e         |                 |
+|   18.1 (22B83)   |         arm64e         |                 |
+| 18.0.1 (22A3370) |         arm64e         |                 |
+|  18.0 (22A3354)  |         arm64e         |                 |
+|  18.0 (22A3351)  |         arm64e         |                 |
 
 
 ### 18.x Beta Symbols List
 |    OS Version    | Collected Architecture |   Description   |
 | :--------------: | :--------------------: | :-------------: |
+| 18.7.10 (22H374) |         arm64e         |                 |
+| 18.7.7 (22H333)  |         arm64e         |                 |
+| 18.7.8 (22H352)  |         arm64e         |                 |
+| 18.7.7 (22H340)  |         arm64e         |                 |
+| 18.7.9 (22H355)  |         arm64e         |                 |
 | 18.7.6 (22H320)  |         arm64e         |                 |
 | 18.7.5 (22H311)  |         arm64e         |                 |
 | 18.7.4 (22H218)  |         arm64e         |                 |
@@ -127,6 +149,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  17.2 (21C62)   |         arm64e         |             |
 | 17.1.2 (21B101) |         arm64e         |             |
 | 17.1.1 (21B91)  |         arm64e         |             |
+|  17.1 (21B74)   |         arm64e         |             |
 |  17.1 (21B80)   |         arm64e         |             |
 | 17.0.3 (21A360) |         arm64e         |             |
 | 17.0.2 (21A351) |         arm64e         |             |
@@ -135,45 +158,47 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  17.0 (21A329)  |         arm64e         |             |
 
 ### 16.x Symbols List
-|    OS Version    | Collected Architecture |              Description              |
-| :--------------: | :--------------------: | :-----------------------------------: |
-| 16.7.15 (20H380) |         arm64          |                                       |
-| 16.7.14 (20H370) |         arm64          |                                       |
-| 16.7.13 (20H365) |         arm64          |                                       |
-| 16.7.12 (20H364) |         arm64          |                                       |
-| 16.7.11 (20H360) |         arm64          |                                       |
-| 16.7.10 (20H350) |         arm64          |                                       |
-| 16.7.9 (20H348)  |         arm64          |                                       |
-| 16.7.8 (20H343)  |         arm64          |                                       |
-| 16.7.7 (20H330)  |         arm64          |                                       |
-| 16.7.6 (20H320)  |         arm64          |                                       |
-| 16.7.5 (20H307)  |         arm64          |                                       |
-| 16.7.4 (20H240)  |         arm64          |                                       |
-| 16.7.3 (20H232)  |         arm64          |                                       |
-| 16.7.2 (20H115)  |         arm64          |                                       |
-|  16.7.1 (20H30)  |         arm64          |                                       |
-|   16.7 (20H19)   |         arm64          |                                       |
-|  16.6.1 (20G81)  |      arm64 arm64e      |                                       |
-|   16.6 (20G75)   |      arm64 arm64e      |                                       |
-|  16.5.1 (20F75)  |      arm64 arm64e      |                                       |
-|   16.5 (20F66)   |      arm64 arm64e      |                                       |
-| 16.4.1 (20E252)  |      arm64 arm64e      |                                       |
-|  16.4 (20E247)   |      arm64 arm64e      |                                       |
-|  16.3.1 (20D67)  |      arm64 arm64e      |                                       |
-|   16.3 (20D47)   |      arm64 arm64e      |                                       |
-|   16.2 (20C65)   |      arm64 arm64e      |                                       |
-| 16.1.2 (20B110)  |      arm64 arm64e      |                                       |
-| 16.1.1 (20B101)  |      arm64 arm64e      |                                       |
-|   16.1 (20B82)   |      arm64 arm64e      |                                       |
-| 16.0.3 (20A392)  |      arm64 arm64e      |                                       |
-| 16.0.2 (20A380)  |      arm64 arm64e      |                                       |
-| 16.0.1 (20A371)  |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
-|  16.0 (20A362)   |      arm64 arm64e      |                                       |
-|  16.0 (20A357)   |         arm64e         | iPhone 14 / Plus / Pro / Pro max only |
+| OS Version       | Collected Architecture | Description                           |
+|:----------------:|:----------------------:|:-------------------------------------:|
+| 16.7.16 (20H392) | arm64                  |                                       |
+| 16.7.15 (20H380) | arm64                  |                                       |
+| 16.7.14 (20H370) | arm64                  |                                       |
+| 16.7.13 (20H365) | arm64                  |                                       |
+| 16.7.12 (20H364) | arm64                  |                                       |
+| 16.7.11 (20H360) | arm64                  |                                       |
+| 16.7.10 (20H350) | arm64                  |                                       |
+| 16.7.9 (20H348)  | arm64                  |                                       |
+| 16.7.8 (20H343)  | arm64                  |                                       |
+| 16.7.7 (20H330)  | arm64                  |                                       |
+| 16.7.6 (20H320)  | arm64                  |                                       |
+| 16.7.5 (20H307)  | arm64                  |                                       |
+| 16.7.4 (20H240)  | arm64                  |                                       |
+| 16.7.3 (20H232)  | arm64                  |                                       |
+| 16.7.2 (20H115)  | arm64                  |                                       |
+| 16.7.1 (20H30)   | arm64                  |                                       |
+| 16.7 (20H19)     | arm64                  |                                       |
+| 16.6.1 (20G81)   | arm64 arm64e           |                                       |
+| 16.6 (20G75)     | arm64 arm64e           |                                       |
+| 16.5.1 (20F75)   | arm64 arm64e           |                                       |
+| 16.5 (20F66)     | arm64 arm64e           |                                       |
+| 16.4.1 (20E252)  | arm64 arm64e           |                                       |
+| 16.4 (20E247)    | arm64 arm64e           |                                       |
+| 16.3.1 (20D67)   | arm64 arm64e           |                                       |
+| 16.3 (20D47)     | arm64 arm64e           |                                       |
+| 16.2 (20C65)     | arm64 arm64e           |                                       |
+| 16.1.2 (20B110)  | arm64 arm64e           |                                       |
+| 16.1.1 (20B101)  | arm64 arm64e           |                                       |
+| 16.1 (20B82)     | arm64 arm64e           |                                       |
+| 16.0.3 (20A392)  | arm64 arm64e           |                                       |
+| 16.0.2 (20A380)  | arm64 arm64e           |                                       |
+| 16.0.1 (20A371)  | arm64e                 | iPhone 14 / Plus / Pro / Pro max only |
+| 16.0 (20A362)    | arm64 arm64e           |                                       |
+| 16.0 (20A357)    | arm64e                 | iPhone 14 / Plus / Pro / Pro max only |
 
 ### 15.x Symbols List
 |   OS Version    | Collected Architecture |                  Description                  |
 | :-------------: | :--------------------: | :-------------------------------------------: |
+| 15.8.8 (19H422) |         arm64          |                                               |
 | 15.8.7 (19H411) |         arm64          |                                               |
 | 15.8.6 (19H402) |         arm64          |                                               |
 | 15.8.5 (19H394) |         arm64          |                                               |
@@ -207,6 +232,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 15.0.2 (19A404) |      arm64 arm64e      |                                               |
 | 15.0.1 (19A348) |      arm64 arm64e      |                                               |
 |  15.0 (19A346)  |      arm64 arm64e      |                                               |
+
 
 ### 14.x Symbols List
 |   OS Version    | Collected Architecture |              Description              |
@@ -255,6 +281,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 12.x Symbols List
 |   OS Version    | Collected Architecture |                Description                |
 | :-------------: | :--------------------: | :---------------------------------------: |
+| 12.5.8 (16H88)  |         arm64          |                                           |
 | 12.5.7 (16H81)  |         arm64          |                                           |
 | 12.5.6 (16H71)  |         arm64          |                                           |
 | 12.5.5 (16H62)  |         arm64          |                                           |
@@ -270,6 +297,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 12.4.5 (16G161) |         arm64          |                                           |
 | 12.4.4 (16G140) |         arm64          |                                           |
 | 12.4.3 (16G130) |         arm64          |                                           |
+| 12.4.2 (16G114) |         arm64          |                                           |
 | 12.4.2 (16G102) |         arm64          |                                           |
 | 12.4.1 (16G102) |      arm64 arm64e      |                                           |
 |  12.4 (16G77)   |      arm64 arm64e      |                                           |
@@ -289,6 +317,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 12.0.1 (16A405) |         arm64e         |       iPhone XR / XS / XS Max only        |
 | 12.0.1 (16A404) |         arm64          |                                           |
 |  12.0 (16A366)  |      arm64 arm64e      |                                           |
+
 
 ## Device Architecture List​
 | armv7      | armv7s    | arm64                      | arm64e                     |
