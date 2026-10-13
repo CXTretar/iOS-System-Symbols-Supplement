@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
-[iOS system symbol files(27.0)](https://drive.google.com/drive/folders/1UykPlExACKQziaoE0Jy6ZMuFsZyYPy19?usp=drive_link)
+[iOS system symbol files(27.0-27.0.1)](https://drive.google.com/drive/folders/1UykPlExACKQziaoE0Jy6ZMuFsZyYPy19?usp=drive_link)
 
 [iOS system symbol files(26.6-26.6.2)](https://drive.google.com/drive/folders/13zQwjRGlVc_2O08XFNyzSB9a66hN3c1x?usp=sharing)
 
@@ -46,6 +46,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 27.x Symbols List
 | OS Version       | Collected Architecture | Description |
 |:----------------:|:----------------------:|:-----------:|
+| 27.0.1 (24A446)  | arm64e                 |             |
 | 27.0 (24A437)    | arm64e                 |             |
 
 
