@@ -10,7 +10,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(27.0-27.0.1)](https://drive.google.com/drive/folders/1UykPlExACKQziaoE0Jy6ZMuFsZyYPy19?usp=drive_link)
 
-[iOS system symbol files(26.6-26.6.2)](https://drive.google.com/drive/folders/13zQwjRGlVc_2O08XFNyzSB9a66hN3c1x?usp=sharing)
+[iOS system symbol files(26.6-26.7)](https://drive.google.com/drive/folders/13zQwjRGlVc_2O08XFNyzSB9a66hN3c1x?usp=sharing)
 
 [iOS system symbol files(26.0-26.5.2)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
 
@@ -53,6 +53,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 26.x Symbols List
 | OS Version       | Collected Architecture | Description |
 |:----------------:|:----------------------:|:-----------:|
+| 26.7 (23H24)     | arm64e                 | OTA         |
 | 26.6.2 (23G90)   | arm64e                 |             |
 | 26.6.1 (23G83)   | arm64e                 |             |
 | 26.6 (23G71)     | arm64e                 |             |
