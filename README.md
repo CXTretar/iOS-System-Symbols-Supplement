@@ -8,7 +8,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ## Download
 [百度网盘](https://pan.baidu.com/s/1dv_v7Jz3vgTq9GcwKzkLvA?pwd=sbf3) 提取码: sbf3
 
-[iOS system symbol files(27.0-27.0.1)](https://drive.google.com/drive/folders/1UykPlExACKQziaoE0Jy6ZMuFsZyYPy19?usp=drive_link)
+[iOS system symbol files(27.0-27.2)](https://drive.google.com/drive/folders/1UykPlExACKQziaoE0Jy6ZMuFsZyYPy19?usp=drive_link)
 
 [iOS system symbol files(26.6-26.7)](https://drive.google.com/drive/folders/13zQwjRGlVc_2O08XFNyzSB9a66hN3c1x?usp=sharing)
 
@@ -46,6 +46,9 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 27.x Symbols List
 | OS Version       | Collected Architecture | Description |
 |:----------------:|:----------------------:|:-----------:|
+| 27.2 (24B119)    | arm64e                 |             |
+| 27.2 (24B91020)  | arm64e                 | iPhone Duo only |
+| 27.1 (24A94425)  | arm64e                 | iPhone Duo (iPhone19,4) only |
 | 27.0.1 (24A446)  | arm64e                 |             |
 | 27.0 (24A437)    | arm64e                 |             |
 
@@ -330,20 +333,20 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |  12.0 (16A366)  |      arm64 arm64e      |                                           |
 
 
-## Device Architecture List​
+# Device Architecture List
 | armv7      | armv7s    | arm64                      | arm64e                     |
 | ---------- | --------- | -------------------------- | -------------------------- |
-| iPhone 3GS | iPhone 5  | iPhone 5S                  | iPhone XR                  |
-| iPhone 4   | iPhone 5C | iPhone 6                   | iPhone XS                  |
-| iPhone 4S  |           | iPhone 6s                  | iPhone XS Max              |
-|            |           | iPhone 6s Plus             | iPhone 11                  |
-|            |           | iPhone SE (1st generation) | iPhone 11 Pro              |
-|            |           | iPhone 7 Plus              | iPhone 11 Pro Max          |
-|            |           | iPhone 8                   | iPhone SE (2nd generation) |
-|            |           | iPhone 8 Plus              | iPhone 12 mini             |
-|            |           | iPhone X                   | iPhone 12                  |
-|            |           |                            | iPhone 12 Pro              |
-|            |           |                            | iPhone 12 Pro Max          |
+| iPhone 3GS | iPhone 5  | iPhone 5s                  | iPhone XR                  |
+| iPhone 4   | iPhone 5c | iPhone 6                   | iPhone XS                  |
+| iPhone 4S  |           | iPhone 6 Plus              | iPhone XS Max              |
+|            |           | iPhone 6s                  | iPhone 11                  |
+|            |           | iPhone 6s Plus             | iPhone 11 Pro              |
+|            |           | iPhone SE (1st generation) | iPhone 11 Pro Max          |
+|            |           | iPhone 7                   | iPhone SE (2nd generation) |
+|            |           | iPhone 7 Plus              | iPhone 12 mini             |
+|            |           | iPhone 8                   | iPhone 12                  |
+|            |           | iPhone 8 Plus              | iPhone 12 Pro              |
+|            |           | iPhone X                   | iPhone 12 Pro Max          |
 |            |           |                            | iPhone 13 mini             |
 |            |           |                            | iPhone 13                  |
 |            |           |                            | iPhone 13 Pro              |
@@ -362,9 +365,13 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |            |           |                            | iPhone 16 Pro              |
 |            |           |                            | iPhone 16 Pro Max          |
 |            |           |                            | iPhone 16e                 |
+|            |           |                            | iPhone 17                  |
 |            |           |                            | iPhone 17 Pro              |
 |            |           |                            | iPhone 17 Pro Max          |
-|            |           |                            | iPhone 17                  |
 |            |           |                            | iPhone Air                 |
 |            |           |                            | iPhone 17e                 |
+|            |           |                            | iPhone 18 Pro              |
+|            |           |                            | iPhone 18 Pro Max          |
+|            |           |                            | iPhone Duo                 |
+
 ​
