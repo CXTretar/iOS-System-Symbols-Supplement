@@ -14,7 +14,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 
 [iOS system symbol files(26.0-26.5.2)](https://drive.google.com/drive/folders/1V-JfRPx8WL_MVXDHHbMiGrQKW3U45yxb?usp=sharing) 
 
-[iOS system symbol files(18.7.10)](https://drive.google.com/drive/folders/1GSpzUQVaRjFmVOELmnJ_LbXT4rEyiyKc?usp=sharing)
+[iOS system symbol files(18.7.10-18.7.11)](https://drive.google.com/drive/folders/1GSpzUQVaRjFmVOELmnJ_LbXT4rEyiyKc?usp=sharing)
 
 [iOS system symbol files(18.6.1-18.7.9)](https://drive.google.com/drive/folders/1y5rE-KPuP-5uM11FgD_gh4GJ6T8UpDTM?usp=sharing) 
 
@@ -48,7 +48,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 |:----------------:|:----------------------:|:-----------:|
 | 27.2 (24B119)    | arm64e                 |             |
 | 27.2 (24B91020)  | arm64e                 | iPhone Duo only |
-| 27.1 (24A94425)  | arm64e                 | iPhone Duo (iPhone19,4) only |
+| 27.1 (24A94425)  | arm64e                 | iPhone Duo only |
 | 27.0.1 (24A446)  | arm64e                 |             |
 | 27.0 (24A437)    | arm64e                 |             |
 
@@ -79,6 +79,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 ### 18.x Symbols List
 |    OS Version    | Collected Architecture |   Description   |
 | :--------------: | :--------------------: | :-------------: |
+| 18.7.11 (22H384) |         arm64e         |                 |
 | 18.7.10 (22H374) |         arm64e         |                 |
 | 18.7.9 (22H355)  |         arm64e         |                 |
 | 18.7.8 (22H352)  |         arm64e         |                 |
@@ -102,6 +103,7 @@ Thanks to [Zuikyo](https://github.com/Zuikyo).
 | 18.3.1 (22D8075) |         arm64e         | iPhone 16e only |
 |  18.3.1 (22D72)  |         arm64e         |                 |
 |   18.3 (22D63)   |         arm64e         |                 |
+| 18.3 (22D64)     |         arm64e         |                 |
 | 18.2.1 (22C161)  |         arm64e         |                 |
 |  18.2 (22C152)   |         arm64e         |                 |
 |  18.1.1 (22B91)  |         arm64e         |                 |
